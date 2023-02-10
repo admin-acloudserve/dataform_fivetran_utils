@@ -37,4 +37,3 @@ additional_columns = [
 ]
 
 fill_staging_columns(get_company_property_history_columns(), additional_columns)
-
